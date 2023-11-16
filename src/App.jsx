@@ -6,7 +6,9 @@ const App = () => {
   return (
     <>
       <Nav />
-      <Outlet />
+      <div className="container mt-2">
+        <Outlet />
+      </div>
       <Footer />
     </>
   );
