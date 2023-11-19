@@ -3,6 +3,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Burger King](https://img.shields.io/badge/Burger%20King-%23D62300?style=for-the-badge&logo=burgerking)
 
+![Deployed Screenshot](./images/deployedscreenshot.png)
+
+# React Portfolio
+
+A site to display the projects I've made. Visitors can view the ```About``` section for information about me, ```Portfolio``` to see my projects, ```Contact``` to send me a message through a working form, and ```Resume``` to download my resume.
 
 # React + Vite
 
