@@ -9,6 +9,8 @@
 
 A site to display the projects I've made. Visitors can view the ```About``` section for information about me, ```Portfolio``` to see my projects, ```Contact``` to send me a message through a working form, and ```Resume``` to download my resume.
 
+Deployed site: https://main--teal-sfogliatella-60110a.netlify.app 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
